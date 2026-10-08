@@ -1,42 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Bancada Viva
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book de um capítulo. Mostra como aplicar cinco hábitos de oficina no desenvolvimento de software com IA generativa: entropia de código, sopa de pedras, duplicidade, vidros quebrados e projetos luminosos. O texto foi organizado no Cursor, as ilustrações saíram no Gemini e a montagem final foi feita no Canva. O texto é original. A inspiração vem de Andrew Hunt e David Thomas, em *O Programador Pragmático*, sem reproduzir o livro.
+
+[Bancada Viva no Canva](https://canva.link/jumky0cf94tdzy6)
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **[Cursor](https://cursor.com)** para organizar o projeto: estrutura do capítulo, arquivos e roteiro
+- **[Gemini](https://gemini.google.com)** para a capa e a ilustração exclusiva de cada página
+- **[Canva](https://www.canva.com)** para montar o e-book e exportar em PDF
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o Cursor para organizar o projeto: estrutura do capítulo, arquivos em `ebook/` e roteiro de cada hábito, com voz de caderno de bancada e um prompt pronto para colar. Usei o Gemini para gerar a capa e a ilustração de cada página, na mesma série visual: guache e tinta, bancada de madeira, luz âmbar. Usei o Canva para montar capa, sumário, introdução, os cinco hábitos e a finalização, e para publicar o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Capa, sumário, introdução, cinco páginas e finalização, com texto organizado no Cursor, imagens no Gemini e montagem no Canva:
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+0. [Capa](ebook/00-capa.md)
+0a. [Sumário](ebook/00a-sumario.md)
+0b. [Introdução](ebook/00b-introducao.md)
+1. [Entropia de código](ebook/01-entropia-de-codigo.md)
+2. [Sopa de pedras](ebook/02-sopa-de-pedras.md)
+3. [Duplicidade de código](ebook/03-duplicidade-de-codigo.md)
+4. [Teoria dos vidros quebrados](ebook/04-teoria-dos-vidros-quebrados.md)
+5. [Projetos luminosos](ebook/05-projetos-luminosos.md)
+6. [Finalização](ebook/06-finalizacao.md)
+
+[Bancada Viva no Canva](https://canva.link/jumky0cf94tdzy6)
+
+## 💭 Reflexão
+O desafio de soar natural foi não imitar o livro. A IA ajuda a enxugar a frase. O hábito, o exemplo e o prompt saem da bancada de quem programa.
 
 ### Exemplos e Insigths
 
